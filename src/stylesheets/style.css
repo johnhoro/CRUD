@@ -1,0 +1,9 @@
+.container {
+  border: 1px solid red;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: aliceblue;
+}
